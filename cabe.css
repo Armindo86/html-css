@@ -1,0 +1,44 @@
+.{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+table{
+    border: solid 1px #666;
+    border-collapse: collapse;
+}
+th{
+    border: solid 1px #666;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+    background-color: aquamarine;
+}
+td{
+    border: solid 1px #666;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+}
+img{
+    width: 150px;
+    height: 150;
+}
+tr td, a{
+    text-align: center;
+}
+.tama{
+    background-color: aqua;
+    text-decoration: underline;
+}
+.di{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration: underline;
+}
+.roma{
+    background-color: aquamarine;
+    text-decoration: underline;
+}
